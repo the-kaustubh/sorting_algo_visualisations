@@ -1,2 +1,2 @@
-# sorting_alo_visualisations
-The widely know sorting algorithms visualised.
+# Sorting Algorithm Visualisations
+The Widely known sorting algorithms visualised.
